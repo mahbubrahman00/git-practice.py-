@@ -1,3 +1,5 @@
 # git-practice.py-
-This is my first git repository. Author-MD MAHBUBUR RAHMAN.
+This is my first git repository.
+<br>
+Author-MD MAHBUBUR RAHMAN.
 
